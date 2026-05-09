@@ -1,0 +1,23 @@
+name: xsecops_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3  # Adjust based on your driver, 11.x is good for 1650
+  - pip
+  - pip:
+    - transformers
+    - scikit-learn
+    - pandas
+    - numpy
+    - shap
+    - matplotlib
+    - seaborn
+    - loguru
+    - cryptography
+    - torch
