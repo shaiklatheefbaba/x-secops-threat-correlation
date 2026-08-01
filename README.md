@@ -43,11 +43,11 @@
 - License
 
   
-**📖 Introduction**
+**📖 Introduction:**
 Describe why cloud-native applications are difficult to secure and how traditional security tools work independently. Explain that your framework combines multiple security layers into one intelligent solution.
 Traditional cloud-native security solutions operate independently, making it difficult to detect sophisticated multi-stage cyber attacks. Existing systems lack explainability, cross-context threat correlation, and forensic readiness.
 
-**🎯 Problem Statement**
+**🎯 Problem Statement:**
 This project proposes a multi-layered Explainable AI framework that integrates static analysis, runtime monitoring, explainability, threat correlation, and immutable forensic logging to improve cybersecurity in cloud-native web applications.
 
 **✨ Features**
@@ -180,10 +180,10 @@ This repository accompanies the IEEE research paper:
 
 **🔮 Future Improvements🔮**
 
--Kubernetes Support
--Multi-Cloud Monitoring
--Blockchain-Based Forensic Logging
--Federated Learning
--Large Language Model Assisted Incident Investigation
--SOAR Integration
--Zero Trust Security Support
+- Kubernetes Support
+- Multi-Cloud Monitoring
+- Blockchain-Based Forensic Logging
+- Federated Learning
+- Large Language Model Assisted Incident Investigation
+- SOAR Integration
+- Zero Trust Security Support
