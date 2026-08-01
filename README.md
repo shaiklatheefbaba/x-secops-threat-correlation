@@ -43,14 +43,15 @@
 - License
 
   
-#INTODUCTION:
+**📖 Introduction**
 Describe why cloud-native applications are difficult to secure and how traditional security tools work independently. Explain that your framework combines multiple security layers into one intelligent solution.
 Traditional cloud-native security solutions operate independently, making it difficult to detect sophisticated multi-stage cyber attacks. Existing systems lack explainability, cross-context threat correlation, and forensic readiness.
 
-#PROBLEM STATEMENT:
+**🎯 Problem Statement**
 This project proposes a multi-layered Explainable AI framework that integrates static analysis, runtime monitoring, explainability, threat correlation, and immutable forensic logging to improve cybersecurity in cloud-native web applications.
 
-##FEATURES
+**✨ Features**
+
 
 ✔ Static Application Security Testing
 
@@ -72,7 +73,8 @@ This project proposes a multi-layered Explainable AI framework that integrates s
 
 ✔ Research-Oriented Design
 
-##WORK FLOW:
+**WORK FLOW**
+
 Source Code
         │
         ▼
@@ -99,7 +101,7 @@ Immutable Logging
         ▼
 Threat Report
 
-##TECHNOLOGIES USED:
+**TECHNOLOGIES USED:**
 
 | Category         | Technologies  |
 | ---------------- | ------------- |
@@ -112,7 +114,7 @@ Threat Report
 | Visualization    | Matplotlib    |
 | Version Control  | Git, GitHub   |
 
-##INSTALLATION GUIDE:
+**INSTALLATION GUIDE:**
 
 Clone Repository
 
@@ -136,7 +138,8 @@ Open Browser
 
 Analyze Threats
 
-##PERFORMANCE METRICS:
+## 📊 **Performance Metrics**
+
 | Metric               | Value |
 | -------------------- | ----- |
 | Accuracy             | 98.6% |
@@ -146,14 +149,15 @@ Analyze Threats
 | Correlation Accuracy | 96.7% |
 | False Positive Rate  | 2.1%  |
 
-##Explainable AI:
+**Explainable AI:**
 Describe how SHAP explains:
-Why the attack was detected
-Most influential features
-Feature importance
-Model transparency
+-Why the attack was detected
+-Most influential features
+-Feature importance
+-Model transparency
 
-##THREAT CORRELATION:
+**THREAT CORRELATION:**
+
 SAST
 
 +
@@ -167,17 +171,19 @@ Explainable AI
 ↓
 
 Cross-Context Threat Correlation
+
 ## Research Paper
 
 This repository accompanies the IEEE research paper:
 
 **"A Multi-Layered Explainable AI Framework for Cross-Contextual Threat Correlation and Forensic Readiness in Cloud-Native Web Applications"**
 
-##FUTURE IMPROVEMENTS:
-Kubernetes Support
-Multi-Cloud Monitoring
-Blockchain-Based Forensic Logging
-Federated Learning
-Large Language Model Assisted Incident Investigation
-SOAR Integration
-Zero Trust Security Support
+**🔮 Future Improvements🔮**
+
+-Kubernetes Support
+-Multi-Cloud Monitoring
+-Blockchain-Based Forensic Logging
+-Federated Learning
+-Large Language Model Assisted Incident Investigation
+-SOAR Integration
+-Zero Trust Security Support
