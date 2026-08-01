@@ -171,6 +171,25 @@ Explainable AI
 ↓
 
 Cross-Context Threat Correlation
+## 📊 Results
+
+The proposed multi-layered framework successfully integrates Static Application Security Testing (SAST), Network Intrusion Detection Systems (NIDS), Explainable AI (SHAP), Cross-Contextual Threat Correlation, and Immutable Forensic Logging into a unified cybersecurity solution for cloud-native web applications.
+
+### Key Outcomes
+
+- Successfully detected vulnerabilities during static code analysis.
+- Identified suspicious runtime network activities using the machine learning-based NIDS.
+- Generated SHAP-based explanations to improve the transparency and interpretability of detection decisions.
+- Correlated static vulnerabilities with runtime network anomalies to detect multi-stage cyber attacks.
+- Reduced false positives through cross-context threat correlation.
+- Maintained tamper-evident forensic logs using immutable hash-based logging.
+- Improved forensic readiness by preserving security events for post-incident investigation.
+
+
+
+### Overall Findings
+
+The experimental evaluation demonstrates that integrating multiple security layers significantly improves threat detection compared to isolated security mechanisms. The combination of Explainable AI, threat correlation, and immutable forensic logging enhances both cybersecurity effectiveness and forensic readiness, making the framework suitable for protecting modern cloud-native web applications.
 
 ## Research Paper
 
